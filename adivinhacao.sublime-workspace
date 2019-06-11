@@ -1,0 +1,320 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"ma",
+				"maior_repeticao"
+			],
+			[
+				"lista",
+				"lista_dic"
+			],
+			[
+				"lis",
+				"lista_dic"
+			],
+			[
+				"media",
+				"mediana"
+			],
+			[
+				"list",
+				"lista_ordenada"
+			],
+			[
+				"ra",
+				"random"
+			],
+			[
+				"li",
+				"lista4"
+			],
+			[
+				"nu",
+				"numeroAleatorio2"
+			],
+			[
+				"num",
+				"numeroAleatorio"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"le",
+				"len"
+			],
+			[
+				"minh",
+				"minha_lista"
+			],
+			[
+				"rea",
+				"read"
+			],
+			[
+				"se",
+				"seq2"
+			],
+			[
+				"seq",
+				"seq2"
+			],
+			[
+				"co",
+				"Con"
+			],
+			[
+				"var",
+				"var4"
+			],
+			[
+				"page",
+				"page_login"
+			],
+			[
+				"fo",
+				"flood-color\tproperty"
+			],
+			[
+				"pa",
+				"page_4"
+			],
+			[
+				"home",
+				"home_page"
+			],
+			[
+				"i",
+				"index"
+			],
+			[
+				"c",
+				"conf"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/VogelR/Dev/estudosPython/01.py",
+		"/Users/VogelR/Dev/estudosPython/adivinhacao.py",
+		"/Users/VogelR/Dev/estudosPython/forca.py",
+		"/Users/VogelR/Library/Caches/Cleanup At Startup/Transmit/AA88C0B2-93DC-44CE-8D36-5F7B60ED3655/bundle-92cd4db73f.css",
+		"/Users/VogelR/Library/Caches/Cleanup At Startup/Transmit/5ED81AD9-EAC1-4BC9-B6F9-1C9560A8D727/header.php",
+		"/Users/VogelR/Library/Caches/Cleanup At Startup/Transmit/01DB81EA-71F8-47CF-B21B-EEA83BB0814D/home-2.php",
+		"/Users/VogelR/Downloads/ExemploBASEAJUSTADA.7z",
+		"/Users/VogelR/Dev/zeroum/Pipfile",
+		"/Users/VogelR/Dev/zeroum/zeroum/urls.py",
+		"/Users/VogelR/Dev/zeroum/zeroum/settings.py",
+		"/Users/VogelR/Dev/zeroum/Pipfile.lock",
+		"/Users/VogelR/Dev/Garch/Pipfile",
+		"/Users/VogelR/Dev/Garch/yahoo.py",
+		"/Users/VogelR/Dev/Garch/core/yahoo.py",
+		"/Users/VogelR/Dev/PenseEmPython/Modularizacao/aleatorio.py",
+		"/Users/VogelR/Dev/PenseEmPython/Modularizacao/media.py",
+		"/Users/VogelR/Dev/PenseEmPython/Modularizacao/main.py",
+		"/Users/VogelR/Dev/PenseEmPython/UDEMY.py",
+		"/Users/VogelR/Dev/PenseEmPython/variaveis.py",
+		"/Users/VogelR/Dev/PenseEmPython/arquivo2.txt",
+		"/Users/VogelR/Dev/PenseEmPython/arquivo.txt",
+		"/Users/VogelR/Dev/PenseEmPython/operadores.py",
+		"/Users/VogelR/Desktop/Projetos/static/bootstrap.bundle.min.js",
+		"/Users/VogelR/Desktop/Projetos/static/heatmap.css",
+		"/Users/VogelR/Desktop/Projetos/static/dashboard.css",
+		"/Users/VogelR/Desktop/Projetos/static/topojson.v1.min.js",
+		"/Users/VogelR/Desktop/Projetos/static/heatmap.js",
+		"/Users/VogelR/Desktop/Projetos/static/d3.v3.min.js",
+		"/Users/VogelR/Desktop/Projetos/static/d3-queue.v3.min.js",
+		"/Users/VogelR/Desktop/Projetos/templates/heatmap.html",
+		"/Users/VogelR/Desktop/Projetos/templates/dashboard.js",
+		"/Users/VogelR/Desktop/Projetos/templates/footer.html",
+		"/Users/VogelR/Desktop/Projetos/website/settings.py",
+		"/Users/VogelR/Desktop/Projetos/quant/templates/index.html",
+		"/Users/VogelR/Desktop/Projetos/website/views.py",
+		"/Users/VogelR/Desktop/Projetos/website/website/settings.py"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 212.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "adivinhacao.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 177.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
